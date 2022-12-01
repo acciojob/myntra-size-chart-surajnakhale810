@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+table{
+    width: 1350px;
+}
+table, th, td{
+    padding: 20px;
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    text-align: center;
+
+}
+.row1{
+    background-color: brown;
+}
+.row2{
+    background-color: rgb(201, 80, 80);
+}
+.row3{
+    background-color: #fff;
+}
+.row4{
+    background-color: burlywood;
+}
